@@ -1,2 +1,2 @@
-# lyncdiscover.svb.com1
+# video.svb.com
 ## sub domain take over by mahmod
